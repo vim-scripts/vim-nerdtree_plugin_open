@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5014
+
+Grab the latest dev version from github: https://github.com/aufgang001/vim-nerdtree_plugin_open
+
+NERD tree (https://github.com/scrooloose/nerdtree) allows you to explore your filesystem and to open files and directories in Vim. 
+The NerdtreePluginOpen extends this functionality with the ability to open files with an appropriate application independent from vim (e.g. non-text files).
